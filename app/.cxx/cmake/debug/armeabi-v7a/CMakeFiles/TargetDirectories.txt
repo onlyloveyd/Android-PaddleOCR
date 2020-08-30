@@ -1,0 +1,3 @@
+D:/05_Project/00_Android_Project/Android-PaddleOCR/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/Native.dir
+D:/05_Project/00_Android_Project/Android-PaddleOCR/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/05_Project/00_Android_Project/Android-PaddleOCR/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

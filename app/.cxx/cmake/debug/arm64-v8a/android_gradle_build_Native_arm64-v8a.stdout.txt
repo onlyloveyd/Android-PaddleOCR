@@ -1,0 +1,11 @@
+ninja: Entering directory `D:\05_Project\00_Android_Project\Android-PaddleOCR\app\.cxx\cmake\debug\arm64-v8a'
+[1/10] Building CXX object CMakeFiles/Native.dir/predictor_output.cpp.o
+[2/10] Building CXX object CMakeFiles/Native.dir/predictor_input.cpp.o
+[3/10] Building CXX object CMakeFiles/Native.dir/ppredictor.cpp.o
+[4/10] Building CXX object CMakeFiles/Native.dir/ocr_db_post_process.cpp.o
+[5/10] Building CXX object CMakeFiles/Native.dir/ocr_clipper.cpp.o
+[6/10] Building CXX object CMakeFiles/Native.dir/ocr_crnn_process.cpp.o
+[7/10] Building CXX object CMakeFiles/Native.dir/native.cpp.o
+[8/10] Building CXX object CMakeFiles/Native.dir/ocr_ppredictor.cpp.o
+[9/10] Building CXX object CMakeFiles/Native.dir/preprocess.cpp.o
+[10/10] Linking CXX shared library D:\05_Project\00_Android_Project\Android-PaddleOCR\app\build\intermediates\cmake\debug\obj\arm64-v8a\libNative.so

@@ -1,0 +1,59 @@
+{
+  "buildFiles": [
+    "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules.cmake",
+    "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVConfig.cmake",
+    "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules-release.cmake",
+    "C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "Native-Debug-arm64-v8a": {
+      "artifactName": "Native",
+      "buildCommand": "C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\debug\\arm64-v8a\" Native",
+      "abi": "arm64-v8a",
+      "output": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libNative.so",
+      "runtimeFiles": [
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\PaddleLite\\cxx\\libs\\arm64-v8a\\libpaddle_light_api_shared.so",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_calib3d.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_core.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_dnn.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_features2d.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_flann.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_highgui.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_imgcodecs.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_imgproc.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_ml.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_objdetect.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_photo.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_stitching.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_video.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_videoio.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\arm64-v8a\\liblibprotobuf.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_imgcodecs.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\arm64-v8a\\liblibjpeg-turbo.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\arm64-v8a\\liblibwebp.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\arm64-v8a\\liblibpng.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\arm64-v8a\\liblibtiff.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\arm64-v8a\\liblibjasper.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\arm64-v8a\\libIlmImf.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\arm64-v8a\\libquirc.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_calib3d.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_features2d.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_flann.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_imgproc.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\arm64-v8a\\libopencv_core.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\arm64-v8a\\libtbb.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\arm64-v8a\\libcpufeatures.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\arm64-v8a\\libittnotify.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\arm64-v8a\\libtegra_hal.a"
+      ]
+    }
+  }
+}

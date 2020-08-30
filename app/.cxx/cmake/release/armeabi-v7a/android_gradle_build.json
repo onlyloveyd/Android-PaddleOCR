@@ -1,0 +1,122 @@
+{
+  "stringTable": {
+    "0": "D:/05_Project/00_Android_Project/Android-PaddleOCR/app/.cxx/cmake/release/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DNative_EXPORTS -ID:/05_Project/00_Android_Project/Android-PaddleOCR/app/src/main/cpp/../../../PaddleLite/cxx/include -isystem D:/05_Project/00_Android_Project/Android-PaddleOCR/app/OpenCV/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -Wno-format -ffast-math -Ofast -Os -fvisibility=hidden -fvisibility-inlines-hidden -fdata-sections -ffunction-sections -Oz -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules-release.cmake",
+    "C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVConfig.cmake",
+    "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules.cmake",
+    "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "Native-Release-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\release\\armeabi-v7a\" Native",
+      "buildType": "release",
+      "toolchain": "4189800369",
+      "abi": "armeabi-v7a",
+      "artifactName": "Native",
+      "files": [
+        {
+          "src": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\native.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\ocr_clipper.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\ocr_crnn_process.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\ocr_db_post_process.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\ocr_ppredictor.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\ppredictor.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\predictor_input.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\predictor_output.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\preprocess.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libNative.so",
+      "runtimeFiles": [
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\PaddleLite\\cxx\\libs\\armeabi-v7a\\libpaddle_light_api_shared.so",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_calib3d.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_core.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_dnn.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_features2d.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_flann.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_highgui.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_imgcodecs.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_imgproc.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_ml.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_objdetect.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_photo.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_stitching.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_video.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_videoio.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\armeabi-v7a\\liblibprotobuf.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_imgcodecs.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\armeabi-v7a\\liblibjpeg-turbo.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\armeabi-v7a\\liblibwebp.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\armeabi-v7a\\liblibpng.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\armeabi-v7a\\liblibtiff.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\armeabi-v7a\\liblibjasper.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\armeabi-v7a\\libIlmImf.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\armeabi-v7a\\libquirc.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_calib3d.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_features2d.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_flann.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_imgproc.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\staticlibs\\armeabi-v7a\\libopencv_core.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\armeabi-v7a\\libtbb.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\armeabi-v7a\\libcpufeatures.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\armeabi-v7a\\libittnotify.a",
+        "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\OpenCV\\sdk\\native\\3rdparty\\libs\\armeabi-v7a\\libtegra_hal.a"
+      ]
+    }
+  },
+  "toolchains": {
+    "4189800369": {
+      "cppCompilerExecutable": "C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

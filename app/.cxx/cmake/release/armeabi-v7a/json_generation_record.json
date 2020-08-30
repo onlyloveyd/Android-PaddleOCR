@@ -1,0 +1,452 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 23 min SDK version: armeabi-v7a",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\release\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\release\\armeabi-v7a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\release\\armeabi-v7a\\build_command.txt, will remove stale json folder",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\release\\armeabi-v7a\u0027",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HD:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++11 -frtti -fexceptions -Wno-format\n-DCMAKE_FIND_ROOT_PATH\u003dD:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\release\\prefab\\armeabi-v7a\\prefab\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dC:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\45742\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d23\n-DANDROID_PLATFORM\u003dandroid-23\n-DANDROID_STL\u003dc++_shared\n-DANDROID_ARM_NEON\u003dTRUE\n-BD:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\release\\armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"D:/05_Project/00_Android_Project/Android-PaddleOCR/app/src/main/cpp\",\n  \"buildDirectory\": \"D:/05_Project/00_Android_Project/Android-PaddleOCR/app/.cxx/cmake/release/armeabi-v7a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_CXX_FLAGS\\u003d-std\\u003dc++11 -frtti -fexceptions -Wno-format\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dD:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\.cxx\\\\cmake\\\\release\\\\prefab\\\\armeabi-v7a\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\Users\\\\45742\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.0.6113669\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darmeabi-v7a\",\n    \"-DANDROID_NDK\\u003dC:\\\\Users\\\\45742\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.0.6113669\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darmeabi-v7a\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\Users\\\\45742\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.0.6113669\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dD:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\build\\\\intermediates\\\\cmake\\\\release\\\\obj\\\\armeabi-v7a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Users\\\\45742\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d23\",\n    \"-DANDROID_PLATFORM\\u003dandroid-23\",\n    \"-DANDROID_STL\\u003dc++_shared\",\n    \"-DANDROID_ARM_NEON\\u003dTRUE\"\n  ]\n}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"opencv dir: D:/05_Project/00_Android_Project/Android-PaddleOCR/app/src/main/cpp/../../../OpenCV/sdk/native/jni\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "opencv dir: D:/05_Project/00_Android_Project/Android-PaddleOCR/app/src/main/cpp/../../../OpenCV/sdk/native/jni",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenCV: D:/05_Project/00_Android_Project/Android-PaddleOCR/app/OpenCV (found version \\\"4.2.0\\\") \",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Found OpenCV: D:/05_Project/00_Android_Project/Android-PaddleOCR/app/OpenCV (found version \"4.2.0\") ",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"OpenCV libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "OpenCV libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake\",\"C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake\",\"../../../OpenCV/sdk/native/jni/OpenCVConfig-version.cmake\",\"../../../OpenCV/sdk/native/jni/OpenCVConfig.cmake\",\"../../../OpenCV/sdk/native/jni/abi-armeabi-v7a/OpenCVConfig.cmake\",\"../../../OpenCV/sdk/native/jni/abi-armeabi-v7a/OpenCVModules.cmake\",\"../../../OpenCV/sdk/native/jni/abi-armeabi-v7a/OpenCVModules-release.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/release/armeabi-v7a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"C:/Users/45742/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"D:/05_Project/00_Android_Project/Android-PaddleOCR/app/src/main/cpp\",\"type\":\"reply\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"D:/05_Project/00_Android_Project/Android-PaddleOCR/app/.cxx/cmake/release/armeabi-v7a\",\"name\":\"Project\",\"sourceDirectory\":\"D:/05_Project/00_Android_Project/Android-PaddleOCR/app/src/main/cpp\",\"targets\":[{\"artifacts\":[\"D:/05_Project/00_Android_Project/Android-PaddleOCR/app/build/intermediates/cmake/release/obj/armeabi-v7a/libNative.so\"],\"buildDirectory\":\"D:/05_Project/00_Android_Project/Android-PaddleOCR/app/.cxx/cmake/release/armeabi-v7a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security  -std\u003dc++11 -frtti -fexceptions -Wno-format -ffast-math -Ofast -Os -fvisibility\u003dhidden -fvisibility-inlines-hidden -fdata-sections -ffunction-sections -Oz -DNDEBUG  -fPIC  \",\"defines\":[\"Native_EXPORTS\"],\"includePath\":[{\"path\":\"D:/05_Project/00_Android_Project/Android-PaddleOCR/app/src/main/cpp/../../../PaddleLite/cxx/include\"},{\"isSystem\":true,\"path\":\"D:/05_Project/00_Android_Project/Android-PaddleOCR/app/OpenCV/sdk/native/jni/include\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"native.cpp\",\"ocr_clipper.cpp\",\"ocr_crnn_process.cpp\",\"ocr_db_post_process.cpp\",\"ocr_ppredictor.cpp\",\"ppredictor.cpp\",\"predictor_input.cpp\",\"predictor_output.cpp\",\"preprocess.cpp\"]}],\"fullName\":\"libNative.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -Wl,--build-id -Wl,--fatal-warnings -Wl,--exclude-libs,libunwind.a -Wl,--no-undefined -Qunused-arguments  -Wl,--gc-sections -Wl,-z,nocopyreloc\",\"linkLibraries\":\"D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\src\\\\main\\\\cpp\\\\..\\\\..\\\\..\\\\PaddleLite\\\\cxx\\\\libs\\\\armeabi-v7a\\\\libpaddle_light_api_shared.so D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_calib3d.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_core.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_dnn.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_features2d.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_flann.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_highgui.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_imgcodecs.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_imgproc.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_ml.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_objdetect.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_photo.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_stitching.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_video.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_videoio.a -lGLESv2 -lEGL -ljnigraphics -llog D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\liblibprotobuf.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_imgcodecs.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\liblibjpeg-turbo.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\liblibwebp.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\liblibpng.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\liblibtiff.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\liblibjasper.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\libIlmImf.a -landroid -llog -lmediandk D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\libquirc.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_calib3d.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_features2d.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_flann.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_imgproc.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_core.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\libtbb.a -lc -lz D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\libcpufeatures.a D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\libittnotify.a -ldl -lm -llog D:\\\\05_Project\\\\00_Android_Project\\\\Android-PaddleOCR\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\libtegra_hal.a -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"Native\",\"sourceDirectory\":\"D:/05_Project/00_Android_Project/Android-PaddleOCR/app/src/main/cpp\",\"sysroot\":\"C:/Users/45742/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\release\\armeabi-v7a\\build_output.txt",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\.cxx\\cmake\\release\\armeabi-v7a\\build_command.txt",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\05_Project\\00_Android_Project\\Android-PaddleOCR\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|armeabi-v7a"
+  }
+]
